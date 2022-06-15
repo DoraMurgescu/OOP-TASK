@@ -1,0 +1,8 @@
+C:\Users\Dora\Desktop\oop tasks\Robot\Robot\Robots\Robots\obj\Debug\Robots.csproj.AssemblyReference.cache
+C:\Users\Dora\Desktop\oop tasks\Robot\Robot\Robots\Robots\obj\Debug\Robots.csproj.SuggestedBindingRedirects.cache
+C:\Users\Dora\Desktop\oop tasks\Robot\Robot\Robots\Robots\obj\Debug\Robots.csproj.CoreCompileInputs.cache
+C:\Users\Dora\Desktop\oop tasks\Robot\Robot\Robots\Robots\bin\Debug\Robots.exe.config
+C:\Users\Dora\Desktop\oop tasks\Robot\Robot\Robots\Robots\bin\Debug\Robots.exe
+C:\Users\Dora\Desktop\oop tasks\Robot\Robot\Robots\Robots\bin\Debug\Robots.pdb
+C:\Users\Dora\Desktop\oop tasks\Robot\Robot\Robots\Robots\obj\Debug\Robots.exe
+C:\Users\Dora\Desktop\oop tasks\Robot\Robot\Robots\Robots\obj\Debug\Robots.pdb
